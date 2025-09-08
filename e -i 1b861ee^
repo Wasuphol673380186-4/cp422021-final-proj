@@ -1,0 +1,9 @@
+[33m27a31f6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m เชื่อม db
+[33m1b861ee[m เชื่อม db
+[33mc173450[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m remove node_modules folder and put in .gitignore in backend side
+[33m06f2814[m[33m ([m[1;31morigin/frontend[m[33m)[m Merge pull request #2 from kroekkasita-alt/master
+[33mebe3e21[m test dummy register
+[33mfd1defb[m change title
+[33md8e9b32[m Merge pull request #1 from kroekkasita-alt/master
+[33m20d89d2[m change text to hello world
+[33m851e9e6[m first commit
